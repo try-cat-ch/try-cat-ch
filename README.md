@@ -1,16 +1,14 @@
+[![MasterHead](https://github.com/try-cat-ch/try-cat-ch/blob/main/banner.png)](https://github.com/try-cat-ch)
 ### Hi there 👋
 
-<!--
-**try-cat-ch/try-cat-ch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=try-cat-ch&theme=cobalt&show_icons=true)
+
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=try-cat-ch&repo=telegram-cloud-manager)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<h3 align="left">Connect with me:    <a href="https://t.me/try_cat_ch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="" height="30" width="40" /></a></h3>
+
